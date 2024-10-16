@@ -1,0 +1,232 @@
+{
+    "motos": [
+        {
+            "marca": "Honda",
+            "modelo": "CBR1000RR-R",
+            "year": 2021,
+            "color": "Rojo"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "Africa Twin",
+            "year": 2022,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CBR650F",
+            "year": 2019,
+            "color": "Negro"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CBR500R",
+            "year": 2020,
+            "color": "Rojo"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "SH300i",
+            "year": 2020,
+            "color": "Gris"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "GL1800",
+            "year": 2022,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CBR600RR",
+            "year": 2022,
+            "color": "Rojo"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CB500F",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "X-ADV",
+            "year": 2021,
+            "color": "Gris"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CRF1100L",
+            "year": 2022,
+            "color": "Verde"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "YZF-R1",
+            "year": 2021,
+            "color": "Rojo"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "MT-07",
+            "year": 2022,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "XSR700",
+            "year": 2020,
+            "color": "Gris"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "FJR1300",
+            "year": 2021,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "FZ6R",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "XSR900",
+            "year": 2021,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "YZF-R6",
+            "year": 2020,
+            "color": "Azul"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "TMAX 560",
+            "year": 2020,
+            "color": "Gris"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "Star Venture",
+            "year": 2022,
+            "color": "Verde"
+        },
+        {
+            "marca": "Yamaha",
+            "modelo": "Bolt R-Spec",
+            "year": 2021,
+            "color": "Negro"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Ninja ZX-10R",
+            "year": 2021,
+            "color": "Verde"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Versys 1000",
+            "year": 2022,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Z900",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Ninja 400",
+            "year": 2020,
+            "color": "Verde"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Vulcan S",
+            "year": 2021,
+            "color": "Negro"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "KLX230",
+            "year": 2020,
+            "color": "Verde"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Ninja ZX-6R",
+            "year": 2020,
+            "color": "Verde"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "Z650",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Kawasaki",
+            "modelo": "W800",
+            "year": 2021,
+            "color": "Café"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "GSX-R1000R",
+            "year": 2021,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "V-Strom 1000",
+            "year": 2022,
+            "color": "Negro"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "SV650",
+            "year": 2020,
+            "color": "Gris"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "GSX-S750",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "Hayabusa",
+            "year": 2021,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "GSX-R600",
+            "year": 2020,
+            "color": "Blanco"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "V-Strom 650",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "Burgman 650",
+            "year": 2020,
+            "color": "Gris"
+        },
+        {
+            "marca": "Suzuki",
+            "modelo": "GSX250R",
+            "year": 2020,
+            "color": "Negro"
+        }
+    ]
+}
